@@ -1,7 +1,5 @@
 package com.wenting.study.Threading;
 
-import com.wenting.study.exception.MyUncaughtExceptionHandler;
-
 import java.util.concurrent.ThreadFactory;
 
 /**

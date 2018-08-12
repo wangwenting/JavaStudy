@@ -1,4 +1,4 @@
-package com.wenting.study.exception;
+package com.wenting.study.Threading;
 
 /**
  * @Author: hzwangwenting-01
