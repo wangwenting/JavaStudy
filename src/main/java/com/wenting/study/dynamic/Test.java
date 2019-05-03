@@ -29,6 +29,5 @@ public class Test {
         TestUserService();
         System.out.println("Test Group Service");
         TestGroupService();
-        throw  new RuntimeException();
     }
 }
